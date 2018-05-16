@@ -1,0 +1,7 @@
+http://mydomain.com/link-to-listing
+http://mydomain.com/link-to-listing
+http://mydomain.com/link-to-listing
+http://mydomain.com/link-to-listing
+latitude: 36.5194999
+
+longitude: -4.7743365
